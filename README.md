@@ -130,6 +130,20 @@ Results on axial slice:
 <em>Results on axial slice</em>
 </p>
 
+Numerical comparison of the results
+The used GAN architecture in application to 3D stack of microscopy images:
+<p align="center">
+<img src="images/SSIM-table.jpg" alt>
+</p>
+
+<p align="center">
+<img src="images/PSNR-table.jpg" alt>
+</p>
+
+<p align="center">
+<img src="images/PQR-table.jpg" alt>
+</p>
+
 
 # Maintainer
 roman.kiryanov@skoltech.ru, Roman Kiryanov

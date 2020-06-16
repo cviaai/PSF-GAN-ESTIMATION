@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<MetaData>
+  <NumberOfImages>1</NumberOfImages>
+  <Image mIndex="0">
+    <BaseDescription>TIFF (adjustable file series)</BaseDescription>
+    <BaseDimension>31 31 7 1 1</BaseDimension>
+    <BaseFileExtension>tif;tiff</BaseFileExtension>
+    <BaseNumberOfDataSets>1</BaseNumberOfDataSets>
+    <BaseHasSettings>true</BaseHasSettings>
+    <BaseForcedVoxelSize>0.000 0.000 0.000</BaseForcedVoxelSize>
+    <ImpSeriesConfigurable>true</ImpSeriesConfigurable>
+    <ImplActiveDataSetIndex>0</ImplActiveDataSetIndex>
+    <ImplActiveResolutionLevel>0</ImplActiveResolutionLevel>
+    <ImplDataBlockNumberOfVoxels>961</ImplDataBlockNumberOfVoxels>
+    <ImplDataBlockSizeV>31 31 1 1 1</ImplDataBlockSizeV>
+    <ImplDataSizeV>31 31 7 1 1</ImplDataSizeV>
+    <ImplDataType>UInt8</ImplDataType>
+    <ImplDimensionSequence>0 1 2 3 4</ImplDimensionSequence>
+    <ImplExtendMax>31.000 31.000 7.000</ImplExtendMax>
+    <ImplExtendMin>0.000 0.000 0.000</ImplExtendMin>
+    <ImplMergeImages>false</ImplMergeImages>
+    <ImplNumberOfDataBlocks>7</ImplNumberOfDataBlocks>
+    <ImplNumberOfDataSets>1</ImplNumberOfDataSets>
+    <ImplNumberOfResolutions>1</ImplNumberOfResolutions>
+    <ImplReaderDescription>TIFF (adjustable file series)</ImplReaderDescription>
+    <ImplReaderExtension>tif;tiff</ImplReaderExtension>
+    <ImplNaNCheckStatus>false</ImplNaNCheckStatus>
+    <ImplParameters><![CDATA[[Channel 0]
+Name = 
+[Image]
+OriginalFormat = TIFF
+OriginalFormatFileIOVersion = ImarisFileIO x64 9.5.1
+Unit = um
+]]>
+</ImplParameters>
+    <ImplSeriesFileValid>true</ImplSeriesFileValid>
+  </Image>
+</MetaData>

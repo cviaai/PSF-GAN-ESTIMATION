@@ -1,0 +1,58 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<MetaData>
+  <NumberOfImages>1</NumberOfImages>
+  <Image mIndex="0">
+    <BaseDescription>Bitplane: Imaris 5.5</BaseDescription>
+    <BaseDimension>31 31 7 1 1</BaseDimension>
+    <BaseFileExtension>ims</BaseFileExtension>
+    <BaseNumberOfDataSets>1</BaseNumberOfDataSets>
+    <BaseHasSettings>true</BaseHasSettings>
+    <BaseForcedVoxelSize>0.000 0.000 0.000</BaseForcedVoxelSize>
+    <ImpSeriesConfigurable>false</ImpSeriesConfigurable>
+    <ImplActiveDataSetIndex>0</ImplActiveDataSetIndex>
+    <ImplActiveResolutionLevel>0</ImplActiveResolutionLevel>
+    <ImplDataBlockNumberOfVoxels>524288</ImplDataBlockNumberOfVoxels>
+    <ImplDataBlockSizeV>256 64 32 1 1</ImplDataBlockSizeV>
+    <ImplDataSizeV>31 31 7 1 1</ImplDataSizeV>
+    <ImplDataType>UInt8</ImplDataType>
+    <ImplDimensionSequence>0 1 2 3 4</ImplDimensionSequence>
+    <ImplExtendMax>31.000 31.000 14.000</ImplExtendMax>
+    <ImplExtendMin>0.000 0.000 0.000</ImplExtendMin>
+    <ImplMergeImages>false</ImplMergeImages>
+    <ImplNumberOfDataBlocks>1</ImplNumberOfDataBlocks>
+    <ImplNumberOfDataSets>1</ImplNumberOfDataSets>
+    <ImplNumberOfResolutions>1</ImplNumberOfResolutions>
+    <ImplReaderDescription>Bitplane: Imaris 5.5</ImplReaderDescription>
+    <ImplReaderExtension>ims</ImplReaderExtension>
+    <ImplNaNCheckStatus>false</ImplNaNCheckStatus>
+    <ImplParameters><![CDATA[[Channel 0]
+Name = (name not specified)
+[Image]
+Description = (description not specified)
+ExtMax0 = 31
+ExtMax1 = 31
+ExtMax2 = 14
+ExtMin0 = 0
+ExtMin1 = 0
+ExtMin2 = 0
+LensPower = 
+MicroscopeModality = 
+Name = (name not specified)
+NumericalAperture = 
+OriginalFormat = TIFF
+OriginalFormatFileIOVersion = ImarisFileIO x64 9.5.1
+RecordingDate = 2020-05-05 18:04:36.000
+ResampleDimensionX = true
+ResampleDimensionY = true
+ResampleDimensionZ = true
+Unit = um
+X = 31
+Y = 31
+Z = 7
+[Log]
+Entries = 0
+]]>
+</ImplParameters>
+    <ImplSeriesFileValid>false</ImplSeriesFileValid>
+  </Image>
+</MetaData>
